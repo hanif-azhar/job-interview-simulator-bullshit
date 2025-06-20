@@ -1,0 +1,146 @@
+[
+  {
+    "speaker": "HR (Greg)",
+    "text": "Tell me about yourself.",
+    "responses": [
+      {
+        "text": "I’m passionate about React. And unemployment.",
+        "burn": 17
+      },
+      {
+        "text": "I cry, then code. Then cry again.",
+        "burn": 25
+      },
+      {
+        "text": "You tell me first. I’ve been ghosted too many times.",
+        "burn": 40
+      }
+    ]
+  },
+  {
+    "speaker": "HR (Greg)",
+    "text": "Why do you want to work here?",
+    "responses": [
+      {
+        "text": "Because I'm broke.",
+        "burn": 30
+      },
+      {
+        "text": "Your Glassdoor reviews are hilarious.",
+        "burn": 45
+      },
+      {
+        "text": "Honestly? Desperation.",
+        "burn": 50
+      }
+    ]
+  },
+  {
+    "speaker": "HR (Greg)",
+    "text": "Where do you see yourself in 5 years?",
+    "responses": [
+      {
+        "text": "Hopefully in a job. Unlike now.",
+        "burn": 35
+      },
+      {
+        "text": "Running this place. Or burning it down.",
+        "burn": 60
+      },
+      {
+        "text": "I don’t even know where I’ll be next month, Greg.",
+        "burn": 40
+      }
+    ]
+  },
+  {
+    "speaker": "HR (Greg)",
+    "text": "Do you have any questions for us?",
+    "responses": [
+      {
+        "text": "Yes. Why are you still talking?",
+        "burn": 50
+      },
+      {
+        "text": "How often do people cry in this role?",
+        "burn": 35
+      },
+      {
+        "text": "Is the coffee at least decent?",
+        "burn": 15
+      }
+    ]
+  },
+  {
+    "speaker": "HR (Greg)",
+    "text": "What are your biggest strengths?",
+    "responses": [
+      {
+        "text": "Surviving rejection. Repeatedly.",
+        "burn": 30
+      },
+      {
+        "text": "I can debug while crying.",
+        "burn": 20
+      },
+      {
+        "text": "I can pretend to care for 30 minutes straight.",
+        "burn": 40
+      }
+    ]
+  },
+  {
+    "speaker": "HR (Greg)",
+    "text": "What is your expected salary?",
+    "responses": [
+      {
+        "text": "Enough to pay for therapy after this.",
+        "burn": 35
+      },
+      {
+        "text": "Whatever your conscience allows.",
+        "burn": 25
+      },
+      {
+        "text": "I’ll work for snacks at this point.",
+        "burn": 50
+      }
+    ]
+  },
+  {
+    "speaker": "HR (Greg)",
+    "text": "Are you a team player?",
+    "responses": [
+      {
+        "text": "Yes, if the team doesn’t include you.",
+        "burn": 45
+      },
+      {
+        "text": "Only in survival games.",
+        "burn": 30
+      },
+      {
+        "text": "I once carried 4 interns and a dog to deadline.",
+        "burn": 20
+      }
+    ]
+  },
+  {
+    "speaker": "HR (Greg)",
+    "text": "How do you handle pressure?",
+    "responses": [
+      {
+        "text": "By screaming internally.",
+        "burn": 25
+      },
+      {
+        "text": "With snacks. Lots of snacks.",
+        "burn": 15
+      },
+      {
+        "text": "By building HR simulators to cope.",
+        "burn": 50
+      }
+    ]
+  }
+]
